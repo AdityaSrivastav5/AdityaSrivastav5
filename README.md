@@ -2,7 +2,7 @@
 <h3 align="center"> Coder | Web Dev | Frontend</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=AdityaS-21&color=0e75b6)
-<img align="right" width="400" src="https://giphy.com/gifs/90s-the-girls-are-in-charge-xuXzcHMkuwvf2">
+<img align="right" width="400" src="[https://giphy.com/gifs/90s-the-girls-are-in-charge-xuXzcHMkuwvf2](https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif)">
 
 🌱 I’m currently learning DSA in C++
 
