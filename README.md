@@ -23,7 +23,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/AdityaS-21" target="_blank">
+<a href="https://github.com/AdityaSrivastav5" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <!-- <a href="https://twitter.com/its_aman_yadav" target="_blank">
@@ -49,14 +49,14 @@
 
      
 # Productivity Stats📈:
-<a href="https://github.com/AdityaS-21/github-readme-activity-graph"><img alt="Aman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Its-Aman-Yadav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AAdityaSrivastav5/github-readme-activity-graph"><img alt="Aman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Its-Aman-Yadav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
 ## 📊 GitHub Activity
-| ![Aman github stats](https://github-readme-stats.vercel.app/api?username=AdityaS-21&show_icons=true&theme=highcontrast) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaS-21&theme=highcontrast)                                                                                                           |
+| ![Aman github stats](https://github-readme-stats.vercel.app/api?username=AdityaSrivastav5&show_icons=true&theme=highcontrast) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaS-21&theme=highcontrast)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaS-21&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AdityaS-21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSrivastav5&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AdityaSrivastav5&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
 
 
 ## 📚 My Education Status
