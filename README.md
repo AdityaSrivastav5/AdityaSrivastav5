@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning DSA in C++
 
-💬 Ask me about Data Structures, and Content Creation
+💬 Ask me about Data Structures, and Problem Solving
 
 📫 How to reach me adityasrivastav863@gmail.com
 
@@ -49,7 +49,8 @@
 
      
 # Productivity Stats📈:
-<a href="https://github.com/AAdityaSrivastav5/github-readme-activity-graph"><img alt="Aman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Its-Aman-Yadav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AAdityaSrivastav5/github-readme-activity-graph"><img alt="Aditya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AdityaSrivastav5
+&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
